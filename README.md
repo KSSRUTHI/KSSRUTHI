@@ -39,7 +39,6 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssruthi&" alt="kssruthi" /></p>
 </div>
-<br/>
 <div align="center">
 
 ## Thank You for Visiting My Space 🌟
