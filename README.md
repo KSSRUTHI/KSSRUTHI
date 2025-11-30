@@ -1,6 +1,6 @@
 ##  Hello World 👋 , I'm Sruthi Sai Prabha K S !!
 
-<img align="right" width="370" height="290" style="border-radius: 14px;" src="">
+<img align="right" width="370" height="290" style="border-radius: 14px;" src="https://github.com/KSSRUTHI/GIF_ASSETS/blob/main/Code_Profile.gif">
 
 ### Passionate Computer Science Engineer
 
