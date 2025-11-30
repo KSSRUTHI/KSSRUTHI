@@ -24,7 +24,10 @@
 <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" /> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" /><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" /><img height="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" title="Firebase" />
 
 ### Libraries & Frameworks
-<img height="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow" /> <img height="50" src="https://img.icons8.com/color/48/000000/flask.png" title="Flask" /><img height="50" src="https://img.icons8.com/color/48/000000/php.png" title="PHP" /><img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
+<img height="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow" /> <img height="50" src="https://img.icons8.com/ios/50/ffffff/flask.png" style="filter: brightness(0) invert(1);" title="Flask" /><img height="50" src="https://img.icons8.com/color/48/000000/php.png" title="PHP" /><img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
+
+### Tools & Technologies I Love Working With
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" src="https://img.icons8.com/fluent/48/000000/jupyter.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/google-colab.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/><img height="50" src="https://img.icons8.com/ios/50/ffffff/github.png"/><img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 ## My Code space
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/sruthisaiprabha/)
